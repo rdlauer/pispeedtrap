@@ -107,7 +107,7 @@ def main():
                               " and how confident? " + str(confidence))
                         display.print(confidence)
 
-                        if vehicle_type == "car" and confidence >= 50:
+                        if vehicle_type == "car" and confidence >= 60:
 
                             # we're pretty sure it's a vehicle we want to track, now let's get the speed
                             display.fill(0)

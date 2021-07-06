@@ -1,15 +1,21 @@
 # Busted! Create an ML-Powered Speed Trap
 
 In this project, I built a portable speed trap that can be used to monitor
-traffic conditions in your neighborhood. By using an ML model to identify
+traffic speed conditions in your neighborhood. By using an ML model to identify
 vehicles, a doppler radar sensor to detect speed, and a
-[cellular module](https://blues.io/) to relay the data to the cloud, it was
-surprisingly easy to build out this IoT solution!
+[cellular module](https://blues.io/) to relay collected data to the cloud, it
+was surprisingly easy to build out this IoT solution!
 
 > Watch an [intro video](NEED LINK) and then view the complete tutorial over at
 > [Hackster.io](NEED LINK)!
 
-![completed project dashboard](TBD)
+![field deployment](speed-trap-final.jpg)
+
+_Field deployment._
+
+![ubidots dashboard](ubidots-dashboard.png)
+
+_Ubidots dashboard._
 
 **Hardware:**
 
@@ -25,6 +31,6 @@ surprisingly easy to build out this IoT solution!
 **Software and Services:**
 
 - [Python](https://www.python.org/)
-- [Notehub](https://blues.io/services/)
+- [Notehub.io](https://blues.io/services/)
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [Ubidots](https://ubidots.com/)
