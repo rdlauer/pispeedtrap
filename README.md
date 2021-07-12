@@ -7,16 +7,16 @@ vehicles, a doppler radar sensor to detect speed, and a
 to relay collected data to the cloud, it was surprisingly easy to build out this
 IoT solution!
 
-> Watch an [intro video](NEED LINK) and then view the complete tutorial over at
-> [Hackster.io](NEED LINK)!
+> Watch an [intro video](https://youtu.be/IpvHeAGUA7I) and then view the
+> complete tutorial over at [Hackster.io](https://bit.ly/pi-speedtrap)!
 
 ![field deployment](speed-trap-final.jpg)
 
-_Field deployment._
+_Field deployment_ 👆
 
 ![ubidots dashboard](ubidots-dashboard.png)
 
-_Ubidots dashboard._
+_Ubidots dashboard_ 👆
 
 **Hardware:**
 
